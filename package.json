@@ -9,6 +9,6 @@
   "author": "Preetham Sridhar",
   "license": "ISC",
   "devDependencies": {
-    "electron": "^4.0.4"
+    "electron": "^13.6.6"
   }
 }
